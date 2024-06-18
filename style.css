@@ -1,0 +1,55 @@
+div {
+    border: 1px red solid;
+}
+
+img {
+    width: 400px;
+}
+
+.post {
+    width: 400px;
+    margin: auto;
+}
+
+.post-head {
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.title {
+    margin-inline-end: auto;
+    font-size: 10px;
+}
+
+.logo {
+    margin-top: ;
+}
+
+.text {
+    padding-left: 10px;
+}
+
+.text1 {
+    font-size: 14px;
+}
+
+.post-icons {
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 10px;
+}
+
+.icon-left {
+    display: flex;
+    font-size: 30px;
+    margin-top: 0px;
+    
+}
+
+.icon-right{
+    font-size: 30px;
+
+}
