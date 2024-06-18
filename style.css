@@ -15,16 +15,21 @@ img {
     display: inline-block;
     display: flex;
     justify-content: space-between;
-    padding: 10px;
+    margin-inline: 10px;
+    height: 50px;
+    margin-bottom: 15px;
 }
 
 .title {
     margin-inline-end: auto;
     font-size: 10px;
+    font-family: sans-serif;
+    line-height: 6px;
+    margin-top: 12px
 }
 
 .logo {
-    margin-top: ;
+    margin-top: -5px
 }
 
 .text {
@@ -40,13 +45,19 @@ img {
     display: flex;
     justify-content: space-between;
     margin-inline: 10px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+    
 }
 
 .icon-left {
     display: flex;
     font-size: 30px;
-    margin-top: 0px;
+    width: 100px;
+    justify-content: space-between;
+   
     
+   
 }
 
 .icon-right{
